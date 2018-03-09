@@ -1,0 +1,8 @@
+N=100
+Soil 10kg 1
+Plastic 10kg 5
+Gold 2kg 100
+Copper 20kg 10
+Iron 5kg 25
+Silver 3kg 90
+Lead 75kg 8

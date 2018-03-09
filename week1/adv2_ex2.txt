@@ -1,0 +1,6 @@
+N=200
+
+Tin 3kg 18
+Silicoln    1kg 25
+Rubber  5kg 10
+Cement 100kg 2

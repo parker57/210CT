@@ -1,0 +1,12 @@
+n = 7
+cube1:colour blue, edge length 5
+cube2:colour blue, edge length 5
+cube3:colour blue, edge length 4
+cube4:colour red, edge length 4
+cube5:colour black, edge length 3
+cube6:colour yellow, edge length 2
+cube7:colour blue, edge length 2
+cube8:colour black, edge length 4
+cube11:colour blue, edge length 5
+cube9:colour yellow, edge length 5
+cube10:colour red, edge length 5
